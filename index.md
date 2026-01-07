@@ -3,7 +3,7 @@ layout: default
 title: Katsunari Yamashita
 ---
 
-This is Katsunari Yamashita’s personal homepage.  
+This is Katsunari Yamashita’s online CV.  
 <!-- 日本語のページは [こちら](Japanese.html)。 -->
 
 ## Current position
@@ -41,6 +41,6 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=ZE37jSIAAAA
 - 3D image analysis
 - Sarcoma
 
-<!## CV (PDF)
+<!## CV (PDF)>
 
-- [Download full CV (PDF)](/files/Yamashita_CV.pdf)>
+<!- [Download full CV (PDF)](/files/Yamashita_CV.pdf)>
