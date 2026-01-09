@@ -23,6 +23,10 @@
       }
       header {
         margin-bottom: 2rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        gap: 1rem;
       }
       header h1 {
         margin: 0;
@@ -31,6 +35,11 @@
       header p {
         margin: 0.25rem 0 0;
         color: #555;
+      }
+      .last-updated {
+        font-size: 0.9rem;
+        color: #666;
+        white-space: nowrap;
       }
       main {
         margin-top: 1rem;
@@ -42,10 +51,15 @@
   </head>
   <body>
     <header>
-      <h1>{{ site.title }}</h1>
-      {% if site.description %}
-      <p>{{ site.description }}</p>
-      {% endif %}
+      <div class="header-main">
+        <h1>{{ site.title }}</h1>
+        {% if site.description %}
+        <p>{{ site.description }}</p>
+        {% endif %}
+      </div>
+      <div class="last-updated">
+        Updated in January 2026
+      </div>
     </header>
 
     <main>
