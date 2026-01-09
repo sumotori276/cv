@@ -41,6 +41,11 @@ Orthopaedic Surgeon, Department of Orthopaedic Surgery, Graduate School of Medic
 
 2011–2017: Bachelor of Medicine (M.D.), Faculty of Medicine, Osaka University, Osaka, Japan  
 
+## Licensure & certification  
+
+Mar 2023: Board-certified Orthopaedic Surgeon (Japan)  
+Mar 2017: National Medical License (Japan)  
+
 ## Publications
 
 See also: [Google Scholar](https://scholar.google.com/citations?user=ZE37jSIAAAAJ)
