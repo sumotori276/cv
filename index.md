@@ -50,9 +50,9 @@ Mar 2017: National Medical License (Japan)
 
 <!-- See also: [Google Scholar](https://scholar.google.com/citations?user=ZE37jSIAAAAJ) -->
 
-**Yamashita K**, Kinoshita FL, Yoshida SY, Matsumoto K, Mitani TT, Fujishima H, Minami Y, Morii E, Yamada RG, Okada S, Ueda HR. A whole-brain single-cell atlas of circadian neural activity in mice. *Science*, 2025. [Article](https://www.science.org/doi/10.1126/science.aea3381)   
+**Yamashita K**, Kinoshita FL, Yoshida SY, Matsumoto K, Mitani TT, Fujishima H, Minami Y, Morii E, Yamada RG, Okada S, Ueda HR. A whole-brain single-cell atlas of circadian neural activity in mice. *Science*, 2025. [[Read online]](https://www.science.org/doi/10.1126/science.aea3381)   
 
-Akiyama F, Matsumoto K, **Yamashita K**, Oishi A, Kitaoka T, Ueda HR. A multiwell plate approach to increase the sample throughput during tissue clearing. *Nature Protocols*, 2025. [Article](https://www.nature.com/articles/s41596-024-01080-1)   
+Akiyama F, Matsumoto K, **Yamashita K**, Oishi A, Kitaoka T, Ueda HR. A multiwell plate approach to increase the sample throughput during tissue clearing. *Nature Protocols*, 2025. [[Read online]](https://www.nature.com/articles/s41596-024-01080-1)   
 
 **Yamashita K**, Outani H, Fujimori T, Imura Y, Okada S. A case of lumbar osteosarcoma treated with a combination of carbon-ion radiotherapy and surgical treatment. *Journal of the Central Japan Association of Orthopaedics and Traumatology*, 2023. [in Japanese]  
 
